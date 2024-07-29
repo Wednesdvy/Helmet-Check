@@ -1,5 +1,6 @@
 package com.example;
 
+import com.helmetcheck.ExamplePlugin;
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
 
